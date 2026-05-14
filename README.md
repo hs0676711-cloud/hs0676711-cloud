@@ -1,7 +1,7 @@
 Hi, I'm Himanshu Singh
 🎓 B.Tech CSE (Cyber Security & Digital Forensics) Student at VIT Bhopal University
 📍 India
- About Me
+# About Me
  - Interested in Cyber Security & Ethical Hacking
  - Learning Python, C, and Web Development
  - Strong focus on problem solving & core concepts
